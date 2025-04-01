@@ -1,0 +1,1 @@
+# Mynt-pdf-to-Koinly-csv-Conversor
